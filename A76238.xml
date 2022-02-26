@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and faithful warning sounded forth through a true prophet of the Lord unto all the inhabitants of the earth, but more particularly to England, and most especially to her cities London, Bristol, and Winchester, whose visitations are almost over as hath been made known to him whose bowels yerns for the restauration of all backsliders known. / By name Charles Bayley.</title>
+            <author>Bayley, Charles, 17th century.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76238</idno>
+            <idno type="STC">Wing B1473C</idno>
+            <idno type="STC">ESTC R170472</idno>
+            <idno type="EEBO-CITATION">45578139</idno>
+            <idno type="OCLC">ocm 45578139</idno>
+            <idno type="VID">172099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2614:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and faithful warning sounded forth through a true prophet of the Lord unto all the inhabitants of the earth, but more particularly to England, and most especially to her cities London, Bristol, and Winchester, whose visitations are almost over as hath been made known to him whose bowels yerns for the restauration of all backsliders known. / By name Charles Bayley.</title>
+                  <author>Bayley, Charles, 17th century.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year, 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Error in paging: p. 10 printed as "01."</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Judgment.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172099:1" rendition="simple:additions"/>
+            <p>A True and Faithful WARNING Sounded forth through a true Prophet of the Lord unto all the Inhabitants of the EARTH, But more particularly to <hi>ENGLAND,</hi> and moſt eſpe<g ref="char:EOLhyphen"/>cially to her Cities <hi>London, Briſtol,</hi> and <hi>Winchester,</hi> whoſe viſitations are almoſt over as hath been made known to him whoſe bowels yerns for the re<g ref="char:EOLhyphen"/>ſtauration of all backſliders known.</p>
+            <p>By Name CHARLES BAYLEY.</p>
+            <p>
+               <hi>London,</hi> Printed in the year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172099:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:172099:2" rendition="simple:additions"/>
+            <div type="part">
+               <head>Theſe words are unto all the inhabitants of the earth, high and low, rich and poor, bond and free, the word of the Lord God unto you all.</head>
+               <p>OH the day the mighty, the terrible, the notable day of the Lord God of all power might and vengeance is come and coming upon and over you all, in which all ye workers of iniquity, weeping, howling and bitter lamentation will be heard amongſt you except ye turn fro<g ref="char:cmbAbbrStroke">̄</g> your naughtineſs with ſpeed by amendment of life, or elſe ſad and deplorable will everlaſtingly be your ſtate and condition, if once the Lamb become a Lion amongſt ye.</p>
+               <p>Therefore this warning from the Lord God, of love and life is ſent unto you with a cry for you to ariſe and repent, and kiſs the Son (his light in you) which long hath ſtroven with you to turn you from the evil of your wayes, but if you ſtill perſiſt and go on in the evil of your wayes in hardheartedneſs, and pride, cruelty, and oppreſſion, then God even the everlaſting God will conſume and deſtroy you from off the earth.</p>
+               <p>For thus hath the Lord God ſpoken, and thus ſhall it ſhortly come to paſs, all ye wicked workers of iniquity ſhall be turned into the bottomleſs pit, there to be tormented with the Devil and his Angels world without end. And an evil doer ſhall not dwell nor remain in the Land; wherefore be ye awakened and ſtirred up out of your fleſhly ſecurity both Prieſt and people, Ru<g ref="char:EOLhyphen"/>lers and Judges, Kings and Potentates. God even the mighty God will plead with you all as with one man in the valley of <hi>Je<g ref="char:EOLhyphen"/>hoſaphat,</hi> which will be a valley or vale of woful miſery unto you all who are found playing and ſporting your ſelves in the day time, even in this the day of God which hath already overtaken you as a thief in the night and deep ſlumber of ſecurity, God will thunder amongſt you, God will roar, God will rent, God will
+<pb n="2" facs="tcp:172099:3" rendition="simple:additions"/>
+tear and divide you in pieces, and not a ſhread of you ſhall be found or left upon the earth unconſumed and undeſtroyed.</p>
+               <p>Therefore amend, amend, repent with haſt and ſpeed, the day will be ſudden, fierce and very furious and terrible unto the wick<g ref="char:EOLhyphen"/>ed, hard-hearted, and rebellious in the Land, <hi>oh weeping and howling will be heard in the Land, and deep ſorrow ſhall encompaſs and ſurround you as a woman in travel, and none ſhall be able to deliver you from the hand of the dreadful God of vengeance,</hi> and though your Prieſts, Sorcerers and wicked wiſe men, have limi<g ref="char:EOLhyphen"/>ted him above the skies, yet ye ſhall aſſuredly find and know that he hath long been beneath you all, bearing and forbearing all your evil, ſins and iniquities; therefore will he ariſe aſcend and deſcend upon you, and his dreadful fury and fire ſhall encom<g ref="char:EOLhyphen"/>paſs you round, ſo that you ſhall not in any wiſe be able to fly or eſcape the dreadful ſtroake of irreſiſtable vengeance and ſtroake of Juſtice which is already ſtreatched forth over your heads.</p>
+               <p>Yet the Scepter and Banner of his love ſhall come before him, and if ye bow thereto happy and bleſſed will ye for ever be, not<g ref="char:EOLhyphen"/>withſtanding all your ſins and rebellion againſt him, but if ye refuſe and reject the loving kindneſs and mercies of the moſt high, and will not that the Son of his love rule and reign over you, the rod of his anger ſhall bring you down without any to help or pity you, <hi>and this is the word of the Lord God to you all.</hi>
+               </p>
+               <p>O ye fooliſh and ungodly ones, how long, how long ſhall it be ere you come to learn and underſtand wiſdom, and to let under<g ref="char:EOLhyphen"/>ſtanding and prudence be your Mother, ſeeing that folly hath conceived you, and the womb of iniquity hath brought you forth, even you whoſe Father hath been a cruel Tyrant in the earth, and hath oppreſſed the true one, and Son of God, for whom and by whom all things were made to the end that he alone might judge, rule and reign over them as the only Prince, King and Lawgiver.</p>
+               <p>But oh look look about you and ſeriouſly read ſee and conſider who it is that ruleth over and amongſt you, is not the Govern<g ref="char:EOLhyphen"/>ment
+<pb n="3" facs="tcp:172099:3" rendition="simple:additions"/>
+upon the ſhoulder of the beaſt and not upon the Lamb of God which taketh away the ſins of the world, for are you not all in ſin and uncleanneſs, by which means the Lambs Rule, King<g ref="char:EOLhyphen"/>dom and reign is not known amongſt you for Satans bondſlaves ye are, and he is your King and Lawgiver; by which means the poor is not eaſed but grievouſly bowed down and oppreſſed by you.</p>
+               <p>The Lamb ſhall break his yoake and bring down all oppreſſors from their ſeats, he it is muſt have the ſole Rule and Dominion in and over all Nations, fence your ſelves as wiſely as you can, your Kingdom of deceit and falſhood is near an end, and truth, peace and righteouſneſs ſhall over People and Nations be ſpread, and he that will not bow unto it, ſhall be bowed down and brought under with the Devil the power of the oppoſſor and the man of ſin, who hath long ſate in the ſeat of God, therefore ſhall he be diſthroned and all that ſeek to uphold him, therefore it lieth upon you to conſider in time what you are joyned to, and what ye uphold, for if it be the power of the diveliſh Beaſt, then muſt ye periſh with him, but if ye joyn unto the power of the holy Lamb, then bleſſed and happy for ever: And this from God is ſent amongſt you all.</p>
+               <closer>
+                  <signed>Charles Bayley.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:172099:4" rendition="simple:additions"/>
+               <p>O The whirlewind of the Lord God is coming over the Nation and Nations! Famine, Plagues, Peſtilence, and the ſword of Gods unreſiſtible vengeance, is near at the door, to break in furi<g ref="char:EOLhyphen"/>ouſly upon all the workers of iniquity: vengeance, woe, and bit<g ref="char:EOLhyphen"/>ter calamity, is entring ſwiftly into <hi>England,</hi> which will light upon all thy unrepenting Inhabitants: wherefore awake, awake; O all ye proud luſtful ones, to meet the Lord God: ariſe and come un<g ref="char:EOLhyphen"/>der his Banner ſpeedily, or elſe his unquenchable anger ſhall ſure<g ref="char:EOLhyphen"/>ly and ſuddenly bring you down.</p>
+               <p>O <hi>Sodom, Sodom!</hi> look to thy dwelling place, and ſee if it be not upon the mountains of ſin and polution; and ye Inhabitants of <hi>Gomorah!</hi> though thy cituation be as it were upon the Rocks of ſecurity, yet the Lord God of a truth will certainly bring thee down.</p>
+               <p>Wo, wo unto thee! <hi>thou Land of</hi> Kder, <hi>and inhabitants of the Deſarts; the wild beaſts of the Forreſt ſhall ſuddenly be let looſe upon you, to pray upon and devour you. Therefore thus ſaith the Lord God unto all the Inhabitants of the earth; fly, fly for your lives, and he that is on the houſe top, let him not deſcend to ſave the goods, neither let him that is in the field ſeek to hide and ſave that which he hath at home: for the coming of the Son of man is at hand, to reward every one according as his works ſhall be.</hi>
+               </p>
+               <p>Wherefore look about thee, O thou inhabitants and City of <hi>London,</hi> and conſider your works, according to which your reward ſhall be; O is not pride and hypocriſie abounding and ſuper-abounding in and amongſt you (cheating, lying, co<g ref="char:EOLhyphen"/>vetouſneſs and deceit; drunkenneſs, whoredom, ſwearing and forſwearing;) O conſider this! leaſt wrath, woe and mi<g ref="char:EOLhyphen"/>ſery (without intermiſſion) everlaſtingly reſt upon you.</p>
+               <p>
+                  <pb n="5" facs="tcp:172099:4" rendition="simple:additions"/>O thou <hi>Egypt!</hi> and ye <hi>Egyptian</hi> doggs, Sorcerers, Inchan<g ref="char:EOLhyphen"/>ters, and Magicians, what can ye expect in this the great, ter<g ref="char:EOLhyphen"/>rable day of the Lord God which is a coming over your heads; even upon you who have by your ſtubbornneſs and heard-heartedneſs ſought every way to keep the ſeed of God in bondage, and would not let it go for your corrupted ends ſake.</p>
+               <p>O thus ſaith the Lord God unto you; your ends ſhall ſhortly end, but your woe, miſery and torment, ſhall never end. Ye are of the curſed ſeed of <hi>Ham,</hi> the mocker, ſcorner, and derider (of the righteous and juſt one;) and will not that he ſhall raign over ye: Therefore ſervants to the leaſt of ſervants ſhall ye be for ever unto ye. And this is the word of the Lord God all.</p>
+               <p>O weep and howle! ye whores and whore-mongers, ye Idol Prieſts, and Idolaters; ye wicked, light, wanton, and prophane ones, who are patching and painting your ſelves <hi>Jezable</hi>-like, cloath, cloath ye with ſackcloath, and cover ye with aſhes, and let the repentings of <hi>Ninive</hi> be ſeen and heard amongſt you, or elſe as <hi>Kner,</hi> as the Lord God lives (whoſe Throne and Dominion is an everlaſting Dominion) his wrathful vengeance will ſuddenly come upon you and over-take you unawares, oh ye that are a ſleepe in the fleſh! and duſt of fleſhly ſecurity, Gods contro<g ref="char:EOLhyphen"/>verſie is againſt you, in as much as ye have ſought your ſelves, your eaſe, pleaſure, and profit, and not the Lord God, therefore ſhall nothing availe and profit ye, which ye have gathered upon heaps unto your ſelvs, Gods wrath, Gods unreſiſtable venge<g ref="char:EOLhyphen"/>ance will ſuddenly ſcatter all from you and you from it, and there ſhall be none found to help you, becauſe you have put your truſt and confidence in the arm of fleſh.</p>
+               <p>O the diſolation which is coming upon you! neither tongue nor pen can write or demonſtrate it unto you; oh ye Babyloniſh Merchants! weeping and woful lamentation is a comming upon you, and all the inhabitants of the earth ſhall hate, utterly loath, and abominate your Merchandiſe: and they ſhall ſurely curſe your dwelling places, when they ſhall ſee and behold with open face
+<pb n="6" facs="tcp:172099:5" rendition="simple:additions"/>
+the ſad and deplorable condition ye have halled and lead them in<g ref="char:EOLhyphen"/>to. O what will you be able to ſay and do (ye blind guides!) that have thus deceived the nations, when that into the ditch and pit of everlaſting deſtruction ye all come to be caſt; ſurely your Logick and your Rethorick, will not be able to hide and ſave you in the day, when ye ſhall be called to an account for what ye have done: oh ye Babiloniſh builders! who have thus built up people in ſin luſt, envy, and uncleanneſs, ſee, ſee and look about you, what the fruits of your pretended miniſtry hath been, this many ages and generations paſt, was ever the inhabitants of the earth fuller of cruelty then now? ſurely nay, nay, therefore God will recompence you the flatterers and daubers of them, accord<g ref="char:EOLhyphen"/>ing to the fruits and effect of your doings.</p>
+               <p>And now you the daubed, what can ye alſo expect from the hand of the righteous Judge? Even you who have taken delight for to be cried peace, peace unto, while the wicked one hath had the cheif rule and raign in you: O you fooliſh and unwiſe ones, did not God in all ages and generations paſt, cauſe all Nations and people for to reape according to their ploughing? reaping that which they have ſowed; and it being ſo, what can or may ye ex<g ref="char:EOLhyphen"/>pect to reap, but the fruit of your doings, ye have ſowed to the fleſh, therefore of the fleſh and produce thereof ye may expect to reap nothing but corruption, and not onely ſo, but your wages for it: And who may ſay, how that the Lord is not, or will not be very righteous in all theſe his ways, which are equal alto<g ref="char:EOLhyphen"/>gether</p>
+               <p>And o thou ſeed of the moſt high God, lift up, lift up, lift up thy head, for it is for thy ſake, thou beautiful and beloved one, that theſe overturnings are to be, to the end that thou, even thou the meek and lowly one, may be raiſed and lifted up over all the mountains of ſin and uncleanneſs, under which thou haſt laine and wert hid from the eyes of all living, though no eye hath pit<g ref="char:EOLhyphen"/>tied thee, yet behold thy God hath pitied thee, and his bowels yearneth for thee: oh what ſhall I ſay of thee! Who is like unto thee? thou ſpeckled one, thou fair one, O come away, come a<g ref="char:EOLhyphen"/>way, and take to thy ſelf thy Dominion, and be thou exalted in
+<pb n="7" facs="tcp:172099:5" rendition="simple:additions"/>
+thy father <hi>Davids</hi> Throne; thou haſt already inamored the hearts and ſouls of many through the beauty, power and ſpendor of thy riſing: And having taſted of thy love, therefore they ſay, and cry, unceſſantly, unto thy father; that reſt the nations might never have nor injoy more, (until thou in the beauty of holineſs over all the world and whole earth art exalted;) ah thou ſhalt aſſuredly leaven all nations, that love thee unfaignedly, with thy love, and with thy beauty.</p>
+               <p>Therefore ſaith the ſouls of the upright, ariſe and be thou a<g ref="char:EOLhyphen"/>wakened thou hand and arm of the mighty high God, ſtretch forth, ſtrecth forth thy ſelf, in the might of thy ſtrength, and in it do thou travel, travel on, to the waſting and making bare all the glory and faſhions of men, that thy ſeed, thy opreſſed one, (as it hath been bowed down and preſſed and opreſſed, under all, as the alone ſufferer, in the earth,) may rule and raign as the only King, Judge, and Prieſt, and Law-giver (in and over all Nations of the earth) <hi>Amen, Amen.</hi>
+               </p>
+               <p>O thou beloved one! who art the onely beloved of thy fa<g ref="char:EOLhyphen"/>ther, the Iſles ſhall rejoyce in thee, and all Nations ſhall rejoyce in thy glory and proſperity; for this, even this is the Anſwer, the righteous receive dayly and continually concerning thee; thou ſhalt rule, thou ſhalt raign, thou ſhalt have the ſole rule and do<g ref="char:EOLhyphen"/>minion of all Kingdoms, kindreds, tongues, and Nations; for thou haſt purchaſed it with thy deareſt blood and life; therefore there is none found worthy beſides thee; and all rule and Raign, and Principalities, and Authority, ſhall be ſubdued and brought under and ſubjected unto thee for ever and ever: and this is the oath and decree of God concerning thee, which can never be altered.</p>
+               <p>Wherefore bleſſed, bleſſed and happy without end ſhall be thoſe who ſubmit and bend unto thee. Glory, glory and honor, ſhall poſſeſs their dwelling places, and with joy and delight ſhall they run their race, for out of thee a bleſſing ſhall not be found, and of thy glory the whole earth ſhall abound.</p>
+               <p>Thou tender Lambe, thou ſhalt be the onely King, the whole Earth ſhall thy praiſes ſing, what ſhall I ſay, thou art
+<pb n="8" facs="tcp:172099:6" rendition="simple:additions"/>
+the onely joys which the whole Earth hath annoyed; but in thy God thou ſhalt ſaved be, and of all Nations ſome ſhall glori<g ref="char:EOLhyphen"/>fie thee.</p>
+            </div>
+            <div type="part">
+               <head>This is a Warning of Repentance to the Inhabitants of <hi>VVenchiſter.</hi>
+               </head>
+               <p>O <hi>All fleſh, earth, and ſelfeſhneſs, be awakened! for God of a truth hath bowed the heavens, and is come down, and hath already drawn and furbiſhed his ſword, which is keenly whet, over your heads, and is and ſhall never be ſheathed, until it hath hewed and brought your glory down, and your honour into the duſt, into ſhame and confuſion: O the miſery and anguiſh, which is coming upon your Inhabitants and reſting place, none is able to declare it unto ye, though warned ye may be by many to flye by true and unfaigned repentance, the ſore, grevious, and unereſiſtable ſtroak of Judgement, which from the righteous God and Judge of all is a coming upon ye,</hi>
+               </p>
+               <p>
+                  <hi>Whirle-winde, Earthquakes, ſhakings, and overturnings, is at hand, even ſuch that hath not been ſince the beginning of the crea<g ref="char:EOLhyphen"/>tion and works of God (which are much polluted and defiled in and by the luſt and inordinate affections of you who are the ſons and daughters of the earthly fallen</hi> Adam.</p>
+               <p>
+                  <hi>Oh all ye Inhabitants of the Earth! ſeriouſly conſider your ſtate and ſtanding and what fruits ye are bringing forth, now the Lord of the Harveſt is coming amongſt you, to look for fruit; what is he like to finde and to reap amongſt ye? but pride, hipocriſie, and de<g ref="char:EOLhyphen"/>ceit, malice and envie, glutony, drunkenneſs, and fulneſs of bread, cruelty, fraud, cheating and opreſſing one another: And theſe and ſuch like is the evident, and manifeſt fruit of your doings.</hi>
+               </p>
+               <p>
+                  <pb n="9" facs="tcp:172099:6" rendition="simple:additions"/>Therefore Prieſt, Ruler, and people, look, look about you, leaſt the rod of Gods vengeance ſmite you at once, in the dreadful fury, for the God of heaven is highly diſpleaſed and provoked unto an<g ref="char:EOLhyphen"/>ger by you, inſomuch that if you do not ſpeedily take timely warning, ye will overpaſs the time by tempting and provoking the holy righteous God of love, untill there will be no remedy, and repentance will come to be hid from your eyes.</p>
+               <p>For conſider this, O all ye people! high and low, rich and poor, do ye think it ſhall be alwayes ſo as it is now, that the op<g ref="char:EOLhyphen"/>preſſor ſhall allwayes have rule in the Land? nay ſurely, nay as ſure as the God of heaven lives, it ſhall not be ſo, for the oppreſ<g ref="char:EOLhyphen"/>ſor ſhall ſhortly be brought under, and the oppreſſed ſhall be ſet at liberty, <hi>the poor and the meek of the earth ſhall be exalted, and the high and lofty ſhall be brought down,</hi> and his grievous yoake ſhall be taken off the neck of the innocent, and he ſhall be ever<g ref="char:EOLhyphen"/>laſtingly beyoaked himſelf therewith, this hath the Lord ſpoken, and this will he ſhortly work and bring to paſs, for his own glo<g ref="char:EOLhyphen"/>rious name ſake, which ſhall over all Nations be beautified and honoured, <hi>and every knee ſhall be made to bow thereto, and every tongue ſhall confeſs to its righteouſneſs for ever and ever,</hi> and this is the infallible Word and Truth of God unto you all who dwell upon the earth:</p>
+               <p>Therefore I ſay haſt, haſt to meet the Lord, who is coming in his Saints, to judge all that dwell upon the earth, with equity; <hi>mercy and judgement ſhall be layed to the Line, and righteouſneſs to the Plummet,</hi> then what will ye do and anſwer for your ſelves (ye howling Idol Prieſts, who make the innocent to groan with hea<g ref="char:EOLhyphen"/>ving, and under the grievous wight of your oppreſſions which ye through covetouſneſs, and for filthy lucre ſake lay upon them all, which ye will not in no wiſe touch with one of your little fin<g ref="char:EOLhyphen"/>gers, except it be to devour the gain, the oppreſſion of your un<g ref="char:EOLhyphen"/>godly luſts;) and accordingly ſhall ye have recompence from God, and be rewarded at the hand of his righteouſneſs, whom ye altogether are ignorant of, and never ſhall know him but in dreadful judgement, except ye ceaſe and amend with ſpeed.</p>
+               <p>And alas! ye high minded proud lofty ones; what can ye alſo
+<pb n="01" facs="tcp:172099:7" rendition="simple:additions"/>
+expect? but tribulation and anguiſh to come forth and to be re<g ref="char:EOLhyphen"/>vealed from heaven againſt you God hath of old ſpoken it, &amp; now the time is even at hand for the fulfilling of it; and ſuch as ye have and do ſtill ſow, ſuch ſhall your reward be, and this in the truth of God will be ſealed upon your heads for ever, if ye are found in an unrepenting ſtate, ſlighting and rejecting Gods holy Law and light in you, through which your ſouls ſhould be con<g ref="char:EOLhyphen"/>verted unto God, without which eternal condemnation will aſſu<g ref="char:EOLhyphen"/>redly be the ſentence of God the Judge of all againſt you.</p>
+               <p>Therefore, woe, woe will be unto you tithe-mongers; woe, woe will be unto you you proud prophane ones, Gods wrath and con<g ref="char:EOLhyphen"/>troverſie is with you: and all you ſwearers, drunkards, and lyers, and whoremongers; the controverſie of God is againſt ye all, and the Kingdom of God ye ſhall never inherit nor poſſeſs; but amongſt the Dogs, and Sorſerers and unclean beaſts, ſhall ye be caſt for ever and ever.</p>
+               <p>O weeping and howling ſhall fill your habitation, and inſtead of ſafety, reſt, and peace, everlaſting calamity ſhall be the reward of your work.</p>
+               <p>
+                  <hi>O ye generation of Serpents and Vipers! how can ye eſcape the fire and torments of Hell, ſeeing that ye take pleaſure in unrighteouſneſs and hate reproof, and to be reformed in your hearts, the Beſome of the Almighty ſhall ſweep and rid you out of the Land, and the ſeed of the righteous ſhall inherit the ſame for ever.</hi>
+               </p>
+               <p>The whirlewind of the Lord is coming upon you, and it ſhall ſhake and root up every evil corrupted tree, and the fire of God ſhall burn and conſume them, ſo that their ſtanding and growing place ſhall no more be found in the earth, and the plant of Gods renown ſhall over all Nations be ſpread, and there ſhall not be any room for another.</p>
+               <closer>
+                  <signed>CHA. BAYLEY.</signed>
+               </closer>
+               <trailer>THE END</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
